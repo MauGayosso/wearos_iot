@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "508129155534",
+    "firebase_url": "https://esp8266-demo-9c927-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-demo-9c927",
+    "storage_bucket": "esp8266-demo-9c927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:508129155534:android:75e3c4fb9308c852a9f39f",
+        "android_client_info": {
+          "package_name": "com.example.wearosiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "508129155534-o2fbuu8c9v55s5lkbukv42gn1h1rqcil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxcKaFZerks1ROmD5yIIjGphcmkMhzobw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "508129155534-o2fbuu8c9v55s5lkbukv42gn1h1rqcil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
