@@ -1,3 +1,3 @@
-# wearos_iot
+# WEAR OS & IoT
 App using wear os compose and arduino to turn on and off a led also get temperature.
-# ESP8266 & DHT11
+ESP8266 & DHT11
